@@ -1,5 +1,5 @@
 owner: cozify
-repo: cozify-status # The name of this repository
+repo: status
 
 sites:
   - name: www.cozify.fi
