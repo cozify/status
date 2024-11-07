@@ -1,0 +1,35 @@
+name: Issues Guard
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  close-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if issue author is a team member
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TEAM_MEMBERS="shacal,cozifyaki"
+          AUTHOR=$(jq -r .issue.user.login "$GITHUB_EVENT_PATH")
+
+          if ! echo "$TEAM_MEMBERS" | grep -q "$AUTHOR"; then
+            ISSUE_NUMBER="${{ github.event.issue.number }}"
+            REPO="${{ github.repository }}"
+            # Close the issue
+            curl -X PATCH -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER" \
+              -d '{"state": "closed"}'
+            # Add a comment
+            curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/comments" \
+              -d '{"body": "Thank you for your interest, but only team members can create issues in this repository."}'
+            # Lock the issue
+            curl -X PUT -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/lock" \
+              -d '{"lock_reason": "off-topic"}'
+          fi

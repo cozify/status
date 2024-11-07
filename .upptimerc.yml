@@ -1,0 +1,81 @@
+owner: cozify
+repo: cozify-status # The name of this repository
+
+sites:
+  - name: www.cozify.fi
+    url: https://www.cozify.fi
+  - name: one.cozify.fi
+    url: https://one.cozify.fi/_/health
+    icon: https://status.cozify.io/favicon.svg
+  - name: one.cozify.io
+    url: https://one.cozify.io/_/health
+    icon: https://status.cozify.io/favicon.svg
+  - name: hubs.cozify.io
+    url: https://hubs.cozify.io/_/health
+    icon: https://status.cozify.io/favicon.svg
+  - name: login.cozify.fi
+    url: https://login.cozify.fi
+    maxRedirects: 0
+  - name: webui.cozify.fi
+    url: https://webui.cozify.fi
+    maxRedirects: 0
+  - name: portal.cozify.fi
+    url: https://portal.cozify.fi
+    maxRedirects: 0
+  - name: preview-webui.cozify.fi
+    url: https://preview-webui.cozify.fi
+    maxRedirects: 0
+  - name: preview-portal.cozify.fi
+    url: https://preview-portal.cozify.fi
+    maxRedirects: 0
+  - name: api.cozify.fi
+    url: https://api.cozify.fi
+    icon: https://status.cozify.io/favicon.svg
+    maxRedirects: 0
+    expectedStatusCodes:
+      - 404
+    __dangerous__body_down_if_text_missing: "Invalid resource path."
+  - name: cloud.cozify.fi
+    url: https://cloud.cozify.fi
+    icon: https://status.cozify.io/favicon.svg
+    maxRedirects: 0
+    expectedStatusCodes:
+      - 404
+    __dangerous__body_down_if_text_missing: "Invalid resource path."
+  - name: videoondemand.cozify.fi
+    url: https://videoondemand.cozify.fi
+    icon: https://status.cozify.io/favicon.svg
+    maxRedirects: 0
+    expectedStatusCodes:
+      - 404
+    __dangerous__body_down_if_text_missing: "404: Not Found"
+  - name: videostreaming.cozify.fi
+    url: https://videostreaming.cozify.fi
+    icon: https://status.cozify.io/favicon.svg
+    maxRedirects: 0
+    expectedStatusCodes:
+      - 404
+
+status-website:
+  cname: status.cozify.io
+  name: Cozify
+  themeUrl: https://status.cozify.io/cozify.css
+  logoUrl: https://status.cozify.io/cozify-logo-light.png
+  faviconSvg: https://status.cozify.io/favicon.svg
+  introTitle: "**Cozify ONE Service Status**"
+  introMessage: This is the status page for all Cozify online services.
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+  navbar:
+    - title: Status
+      href: /
+    - title: cozify.fi
+      href: https://www.cozify.fi
+
+assignees:
+  - shacal
+
+i18n:
+  footer: Copyright ©2024 Cozify Oy. - All rights reserved.
