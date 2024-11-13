@@ -40,19 +40,19 @@
     "url": "https://one.cozify.io/_/health",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "one-cozify-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 549,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 466,
+    "timeDay": 457,
+    "timeWeek": 466,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-13": 15
     }
   },
   {
