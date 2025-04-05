@@ -224,19 +224,19 @@
     "url": "https://videostreaming.cozify.fi",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "videostreaming-cozify-fi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 505,
-    "timeWeek": 404,
-    "timeMonth": 466,
-    "timeYear": 455,
+    "time": 456,
+    "timeDay": 534,
+    "timeWeek": 425,
+    "timeMonth": 470,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2025-04-05": 0
+      "2025-04-05": 10
     }
   }
 ]
