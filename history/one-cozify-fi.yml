@@ -1,7 +1,7 @@
 url: https://one.cozify.fi/_/health
-status: down
-code: 503
-responseTime: 15658
-lastUpdated: 2025-07-11T01:51:07.145Z
+status: up
+code: 200
+responseTime: 515
+lastUpdated: 2025-07-11T02:34:28.817Z
 startTime: 2024-11-07T17:49:02.692Z
 generator: Upptime <https://github.com/upptime/upptime>
