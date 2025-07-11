@@ -22,19 +22,19 @@
     "url": "https://one.cozify.fi/_/health",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "one-cozify-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 8252,
-    "timeWeek": 2879,
-    "timeMonth": 1315,
-    "timeYear": 826,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 825,
+    "timeDay": 5673,
+    "timeWeek": 2616,
+    "timeMonth": 1290,
+    "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-07-11": 2
+      "2025-07-11": 43
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://api.cozify.fi",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "api-cozify-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 513,
-    "timeDay": 581,
-    "timeWeek": 466,
-    "timeMonth": 553,
+    "timeDay": 506,
+    "timeWeek": 462,
+    "timeMonth": 549,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 42
     }
   },
   {
