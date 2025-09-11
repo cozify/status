@@ -116,19 +116,19 @@
     "url": "https://portal.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/portal.cozify.fi.ico",
     "slug": "portal-cozify-fi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 399,
-    "timeWeek": 255,
-    "timeMonth": 217,
-    "timeYear": 216,
+    "time": 217,
+    "timeDay": 394,
+    "timeWeek": 272,
+    "timeMonth": 222,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-09-11": 1
+      "2025-09-11": 14
     }
   },
   {
