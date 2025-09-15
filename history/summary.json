@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 465,
-    "timeWeek": 535,
-    "timeMonth": 462,
-    "timeYear": 463,
+    "time": 464,
+    "timeDay": 635,
+    "timeWeek": 577,
+    "timeMonth": 469,
+    "timeYear": 464,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 809,
-    "timeDay": 947,
-    "timeWeek": 775,
-    "timeMonth": 744,
-    "timeYear": 809,
+    "time": 810,
+    "timeDay": 1032,
+    "timeWeek": 823,
+    "timeMonth": 755,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2025-07-11": 43
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 650,
-    "timeWeek": 556,
-    "timeMonth": 561,
+    "timeDay": 576,
+    "timeWeek": 568,
+    "timeMonth": 560,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2024-11-13": 15
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 432,
-    "timeWeek": 506,
-    "timeMonth": 549,
-    "timeYear": 504,
+    "time": 505,
+    "timeDay": 788,
+    "timeWeek": 553,
+    "timeMonth": 552,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 673,
-    "timeWeek": 556,
-    "timeMonth": 593,
+    "timeDay": 781,
+    "timeWeek": 602,
+    "timeMonth": 603,
     "timeYear": 538,
     "dailyMinutesDown": {}
   },
@@ -98,72 +98,80 @@
     "url": "https://webui.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/webui.cozify.fi.ico",
     "slug": "webui-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 45,
-    "timeWeek": 293,
-    "timeMonth": 218,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 222,
+    "timeDay": 710,
+    "timeWeek": 329,
+    "timeMonth": 237,
+    "timeYear": 222,
+    "dailyMinutesDown": {
+      "2025-09-15": 0
+    }
   },
   {
     "name": "portal.cozify.fi",
     "url": "https://portal.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/portal.cozify.fi.ico",
     "slug": "portal-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 59,
-    "timeWeek": 238,
-    "timeMonth": 217,
+    "timeDay": 130,
+    "timeWeek": 196,
+    "timeMonth": 220,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-15": 0
+    }
   },
   {
     "name": "preview-webui.cozify.fi",
     "url": "https://preview-webui.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/preview-webui.cozify.fi.ico",
     "slug": "preview-webui-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 51,
-    "timeWeek": 264,
-    "timeMonth": 205,
+    "timeDay": 151,
+    "timeWeek": 220,
+    "timeMonth": 209,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-15": 0
+    }
   },
   {
     "name": "preview-portal.cozify.fi",
     "url": "https://preview-portal.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/preview-portal.cozify.fi.ico",
     "slug": "preview-portal-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 52,
-    "timeWeek": 328,
+    "timeDay": 139,
+    "timeWeek": 281,
     "timeMonth": 253,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-15": 0
+    }
   },
   {
     "name": "api.cozify.fi",
@@ -176,11 +184,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 512,
-    "timeDay": 485,
-    "timeWeek": 481,
-    "timeMonth": 531,
-    "timeYear": 512,
+    "time": 511,
+    "timeDay": 364,
+    "timeWeek": 468,
+    "timeMonth": 510,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2025-07-11": 42
     }
@@ -197,9 +205,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 522,
-    "timeDay": 446,
-    "timeWeek": 537,
-    "timeMonth": 526,
+    "timeDay": 518,
+    "timeWeek": 544,
+    "timeMonth": 515,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2025-08-02": 30,
@@ -218,9 +226,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 463,
-    "timeDay": 653,
-    "timeWeek": 481,
-    "timeMonth": 479,
+    "timeDay": 420,
+    "timeWeek": 476,
+    "timeMonth": 472,
     "timeYear": 463,
     "dailyMinutesDown": {}
   },
@@ -236,9 +244,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 578,
-    "timeWeek": 425,
-    "timeMonth": 479,
+    "timeDay": 377,
+    "timeWeek": 415,
+    "timeMonth": 472,
     "timeYear": 453,
     "dailyMinutesDown": {}
   }
