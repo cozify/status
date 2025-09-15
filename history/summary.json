@@ -98,19 +98,19 @@
     "url": "https://webui.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/webui.cozify.fi.ico",
     "slug": "webui-cozify-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.94%",
     "time": 222,
-    "timeDay": 710,
-    "timeWeek": 329,
-    "timeMonth": 237,
+    "timeDay": 549,
+    "timeWeek": 336,
+    "timeMonth": 242,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-09-15": 12
+      "2025-09-15": 282
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://portal.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/portal.cozify.fi.ico",
     "slug": "portal-cozify-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.94%",
     "time": 215,
-    "timeDay": 130,
-    "timeWeek": 196,
-    "timeMonth": 220,
+    "timeDay": 220,
+    "timeWeek": 208,
+    "timeMonth": 222,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-09-15": 12
+      "2025-09-15": 282
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://preview-webui.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/preview-webui.cozify.fi.ico",
     "slug": "preview-webui-cozify-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.94%",
     "time": 226,
-    "timeDay": 151,
-    "timeWeek": 220,
-    "timeMonth": 209,
+    "timeDay": 214,
+    "timeWeek": 227,
+    "timeMonth": 211,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-09-15": 12
+      "2025-09-15": 282
     }
   },
   {
@@ -158,19 +158,19 @@
     "url": "https://preview-portal.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/preview-portal.cozify.fi.ico",
     "slug": "preview-portal-cozify-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "80.43%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.94%",
     "time": 227,
-    "timeDay": 139,
-    "timeWeek": 281,
-    "timeMonth": 253,
+    "timeDay": 237,
+    "timeWeek": 288,
+    "timeMonth": 255,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-09-15": 12
+      "2025-09-15": 282
     }
   },
   {
