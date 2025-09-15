@@ -100,9 +100,9 @@
     "slug": "webui-cozify-fi",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 710,
@@ -110,7 +110,7 @@
     "timeMonth": 237,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-09-15": 0
+      "2025-09-15": 12
     }
   },
   {
@@ -120,9 +120,9 @@
     "slug": "portal-cozify-fi",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 130,
@@ -130,7 +130,7 @@
     "timeMonth": 220,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-09-15": 0
+      "2025-09-15": 12
     }
   },
   {
@@ -140,9 +140,9 @@
     "slug": "preview-webui-cozify-fi",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 226,
     "timeDay": 151,
@@ -150,7 +150,7 @@
     "timeMonth": 209,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-09-15": 0
+      "2025-09-15": 12
     }
   },
   {
@@ -160,9 +160,9 @@
     "slug": "preview-portal-cozify-fi",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 139,
@@ -170,7 +170,7 @@
     "timeMonth": 253,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-09-15": 0
+      "2025-09-15": 12
     }
   },
   {
