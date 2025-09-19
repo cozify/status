@@ -80,18 +80,20 @@
     "url": "https://login.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/login.cozify.fi.ico",
     "slug": "login-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 9251,
-    "timeWeek": 3526,
-    "timeMonth": 1394,
-    "timeYear": 621,
-    "dailyMinutesDown": {}
+    "time": 620,
+    "timeDay": 7041,
+    "timeWeek": 3215,
+    "timeMonth": 1365,
+    "timeYear": 620,
+    "dailyMinutesDown": {
+      "2025-09-19": 0
+    }
   },
   {
     "name": "webui.cozify.fi",
@@ -219,19 +221,19 @@
     "url": "https://videoondemand.cozify.fi",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "videoondemand-cozify-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 463,
-    "timeDay": 353,
-    "timeWeek": 462,
-    "timeMonth": 465,
+    "timeDay": 352,
+    "timeWeek": 450,
+    "timeMonth": 462,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-09-19": 0
+      "2025-09-19": 31
     }
   },
   {
