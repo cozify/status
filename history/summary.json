@@ -80,19 +80,19 @@
     "url": "https://login.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/login.cozify.fi.ico",
     "slug": "login-cozify-fi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 620,
-    "timeDay": 7041,
-    "timeWeek": 3215,
-    "timeMonth": 1365,
+    "timeDay": 5737,
+    "timeWeek": 2970,
+    "timeMonth": 1341,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2025-09-19": 0
+      "2025-09-19": 9
     }
   },
   {
