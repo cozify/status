@@ -82,18 +82,16 @@
     "slug": "login-cozify-fi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 9251,
     "timeWeek": 3526,
     "timeMonth": 1394,
     "timeYear": 621,
-    "dailyMinutesDown": {
-      "2025-09-19": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "webui.cozify.fi",
@@ -221,18 +219,20 @@
     "url": "https://videoondemand.cozify.fi",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "videoondemand-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 463,
-    "timeDay": 405,
-    "timeWeek": 485,
-    "timeMonth": 471,
+    "timeDay": 353,
+    "timeWeek": 462,
+    "timeMonth": 465,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-19": 0
+    }
   },
   {
     "name": "videostreaming.cozify.fi",
