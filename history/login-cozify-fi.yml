@@ -1,7 +1,7 @@
 url: https://login.cozify.fi
-status: down
-code: 502
-responseTime: 409
-lastUpdated: 2025-09-19T06:42:47.361Z
+status: up
+code: 200
+responseTime: 520
+lastUpdated: 2025-09-19T06:52:08.618Z
 startTime: 2024-11-07T17:49:05.465Z
 generator: Upptime <https://github.com/upptime/upptime>
