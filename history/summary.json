@@ -4,18 +4,20 @@
     "url": "https://www.cozify.fi",
     "icon": "https://icons.duckduckgo.com/ip3/www.cozify.fi.ico",
     "slug": "www-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 369,
-    "timeWeek": 419,
-    "timeMonth": 441,
-    "timeYear": 453,
-    "dailyMinutesDown": {}
+    "timeDay": 317,
+    "timeWeek": 399,
+    "timeMonth": 435,
+    "timeYear": 452,
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "one.cozify.fi",
