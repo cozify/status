@@ -5,20 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cozify.fi.ico",
     "slug": "www-cozify-fi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 472,
-    "timeDay": 324,
-    "timeWeek": 399,
-    "timeMonth": 438,
-    "timeYear": 483,
+    "uptime": "99.98%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.97%",
+    "time": 471,
+    "timeDay": 249,
+    "timeWeek": 358,
+    "timeMonth": 424,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-12-05": 23,
       "2026-02-04": 17,
-      "2026-04-29": 34
+      "2026-04-29": 34,
+      "2026-06-20": 74
     }
   },
   {
