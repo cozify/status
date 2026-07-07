@@ -232,19 +232,20 @@
     "url": "https://videoondemand.cozify.fi",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "videoondemand-cozify-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 455,
-    "timeDay": 308,
-    "timeWeek": 442,
-    "timeMonth": 455,
-    "timeYear": 454,
+    "timeDay": 267,
+    "timeWeek": 415,
+    "timeMonth": 448,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-19": 31
+      "2025-09-19": 31,
+      "2026-07-07": 0
     }
   },
   {
