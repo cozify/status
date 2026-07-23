@@ -1,7 +1,7 @@
 url: https://www.cozify.fi
-status: up
-code: 200
-responseTime: 182
-lastUpdated: 2026-07-22T23:18:36.037Z
+status: down
+code: 503
+responseTime: 51
+lastUpdated: 2026-07-23T14:10:09.992Z
 startTime: 2024-11-07T17:49:01.956Z
 generator: Upptime <https://github.com/upptime/upptime>
