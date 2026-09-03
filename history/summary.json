@@ -49,19 +49,20 @@
     "url": "https://one.cozify.io/_/health",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "one-cozify-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 611,
-    "timeDay": 624,
-    "timeWeek": 495,
-    "timeMonth": 482,
+    "timeDay": 589,
+    "timeWeek": 502,
+    "timeMonth": 485,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2026-05-19": 76
+      "2026-05-19": 76,
+      "2026-09-03": 1
     }
   },
   {
@@ -69,18 +70,20 @@
     "url": "https://hubs.cozify.io/_/health",
     "icon": "https://status.cozify.io/favicon.svg",
     "slug": "hubs-cozify-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
-    "timeDay": 564,
-    "timeWeek": 495,
-    "timeMonth": 467,
+    "timeDay": 554,
+    "timeWeek": 502,
+    "timeMonth": 470,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-03": 0
+    }
   },
   {
     "name": "login.cozify.fi",
