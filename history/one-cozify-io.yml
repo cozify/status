@@ -1,7 +1,7 @@
 url: https://one.cozify.io/_/health
-status: up
-code: 200
-responseTime: 624
-lastUpdated: 2026-09-02T23:02:00.573Z
+status: down
+code: 503
+responseTime: 553
+lastUpdated: 2026-09-03T19:19:34.063Z
 startTime: 2024-11-07T17:49:04.018Z
 generator: Upptime <https://github.com/upptime/upptime>
